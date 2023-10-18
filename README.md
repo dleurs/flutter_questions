@@ -2,20 +2,18 @@
 
 ## Technical / coding flutter questions 
 
-1. If you want to display two non-fixed lenght scrollable list inside the same page (you scroll the first list then the second), do you use ListView or CustomScrollView / SliverChildBuilderDelegate 
+1. Difference Stateless et Statefull
+2.  If you want to display two non-fixed lenght scrollable list inside the same page (you scroll the first list then the second), do you use ListView or CustomScrollView / SliverChildBuilderDelegate 
    a. a Is shrinkWrap: true a problem ?
   
   => https://www.youtube.com/watch?v=LUqDNnv_dh0
 
-2. What is the difference between Expanded and Flexible
+3. What is the difference between Expanded and Flexible
    a. Which one is "wrap content" and "match parent" in terms of width / height
 
    => ![image](https://github.com/dleurs/flutter_questions/assets/58068925/d220e5d1-7f09-40aa-8349-0d018b5e396b)
 
-3. Difference between final and const
-
-4. 
-
+4. Difference between final and const
 
 ## Archi / packages questions
 
@@ -24,6 +22,9 @@
 3. How to test ?
 4. How to store offline ? SQL or noSQL ?
 5. What is clean archi ?
+6. What is dependency injection and how is it good for repository ?
+
+
 
 
 ## Mobile in general
@@ -46,6 +47,14 @@
 4. Difference in term of navigation between web and mobile ?
    - web : url based
    - mobile : mostly like an automaton
+  
+
+## Flutter general
+
+1. Pros and cons flutter
+   - DevExp
+   - No SEO for web
+
 
 
 

@@ -2,7 +2,7 @@
 
 ## Technical / coding flutter questions 
 
-1. If you want to display two infinite scrollable list inside the same page, ListView or CustomScrollView / SliverChildBuilderDelegate 
+1. If you want to display two non-fixed lenght scrollable list inside the same page (you scroll the first list then the second), do you use ListView or CustomScrollView / SliverChildBuilderDelegate 
    a. a Is shrinkWrap: true a problem ?
   
   => https://www.youtube.com/watch?v=LUqDNnv_dh0

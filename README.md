@@ -12,7 +12,9 @@
 
    => ![image](https://github.com/dleurs/flutter_questions/assets/58068925/d220e5d1-7f09-40aa-8349-0d018b5e396b)
 
-3. 
+3. Difference between final and const
+
+4. 
 
 
 ## Archi / packages questions

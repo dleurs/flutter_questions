@@ -3,14 +3,16 @@
 ## Technical / coding flutter questions 
 
 1. If you want to display two infinite scrollable list inside the same page, ListView or CustomScrollView / SliverChildBuilderDelegate 
-   1. a Is shrinkWrap: true a problem ?
+   a. a Is shrinkWrap: true a problem ?
   
   => https://www.youtube.com/watch?v=LUqDNnv_dh0
 
 2. What is the difference between Expanded and Flexible
-  2. 1 Which one is "wrap content" and "match parent" in terms of width / height
+   a. Which one is "wrap content" and "match parent" in terms of width / height
 
    => ![image](https://github.com/dleurs/flutter_questions/assets/58068925/d220e5d1-7f09-40aa-8349-0d018b5e396b)
+
+3. 
 
 
 ## Archi / packages questions

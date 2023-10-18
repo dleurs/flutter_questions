@@ -40,6 +40,10 @@
    - Access to mobile storage, for media (sound, video) or secure storage
    - Gestion des versions, toujours à jour côté web
    - Tax
+  
+4. Difference in term of navigation between web and mobile ?
+   - web : url based
+   - mobile : mostly like an automaton
 
 
 

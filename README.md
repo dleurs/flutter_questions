@@ -16,7 +16,7 @@
    => ![image](https://github.com/dleurs/flutter_questions/assets/58068925/d220e5d1-7f09-40aa-8349-0d018b5e396b)
 
 5. Difference between final and const
-   run time / compile time
+   - run time / compile time
 7. Difference between var and dynamic
    
 ![dynamic_var](https://github.com/dleurs/flutter_questions/assets/58068925/00cdc679-ea48-43d2-bcd2-7c584d4b86c6)

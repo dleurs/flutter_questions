@@ -20,6 +20,7 @@
 6. Difference between Map and list in terms of searching an element ?
    - o(log(n)) and o(n)
 8. Difference between var and dynamic
+9. debounce ? https://bloc-event-transformers.web.app/bloc_event_transformers/debounce.html
    
 ![dynamic_var](https://github.com/dleurs/flutter_questions/assets/58068925/00cdc679-ea48-43d2-bcd2-7c584d4b86c6)
 

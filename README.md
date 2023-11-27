@@ -17,7 +17,8 @@
 
 5. Difference between final and const
    - run time / compile time
-6. Difference between Map and list in terms of searching an element ?
+6.Difference between Array and List ?
+7. Difference between Map and Array in terms of searching an element ?
    - o(log(n)) and o(n)
    - Et set ?
    -   Pas de doublon dans set

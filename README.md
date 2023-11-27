@@ -20,6 +20,7 @@
 6. Difference between Map and list in terms of searching an element ?
    - o(log(n)) and o(n)
    - Et set ?
+   -   Pas de doublon dans set
 8. Difference between var and dynamic
 9. debounce ?
     - https://bloc-event-transformers.web.app/bloc_event_transformers/debounce.html

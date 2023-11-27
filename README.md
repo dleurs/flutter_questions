@@ -17,6 +17,12 @@
 
 5. Difference between final and const
    - run time / compile time
+
+
+  6. Comment résoudre un problème ?
+     - docs officiel, google, github (issue, update), chatgpt
+
+   7. Gestion de l'état
      
 6.Difference between Array and List ?
 |                                              | LinkedList                                                                                         | List / Array                                                                                                                                    | Map                                                                                                |

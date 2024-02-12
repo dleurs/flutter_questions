@@ -17,6 +17,12 @@
 
 5. Difference between final and const
    - run time / compile time
+  
+5.2 What is factory ?
+
+Factory constructors return am instance of the class, but it doesn't necessarily create a new instance. Factory constructors might return an instance that already exists, or a sub-class.
+
+https://flutterbyexample.com/lesson/factory-methods
 
 
   6. Comment résoudre un problème ?

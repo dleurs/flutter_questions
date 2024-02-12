@@ -24,6 +24,8 @@ Factory constructors return am instance of the class, but it doesn't necessarily
 
 https://flutterbyexample.com/lesson/factory-methods
 
+https://medium.com/@shemsedinrobsen/understanding-factory-constructors-in-dart-and-flutter-a-comparison-with-static-methods-d03b471a7944
+
 
   6. Comment résoudre un problème ?
      - docs officiel, google, github (issue, update), chatgpt

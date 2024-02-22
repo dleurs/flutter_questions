@@ -62,6 +62,18 @@ https://medium.com/@shemsedinrobsen/understanding-factory-constructors-in-dart-a
 
    
 7. What are Mixin ?
+8. Sealed class ?
+
+
+9. Clean archi
+      Presentation / Domain         / Data
+
+      - cubit      - entities      - model / dto
+      - state      - abst repo     - API
+      - pages      - usecase       - Mapper
+                                   - impl repo
+
+9.1 Différence BlocListener / BlocBuilder ?
 
 ## Archi / packages questions
 

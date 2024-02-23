@@ -26,6 +26,12 @@ https://flutterbyexample.com/lesson/factory-methods
 
 https://medium.com/@shemsedinrobsen/understanding-factory-constructors-in-dart-and-flutter-a-comparison-with-static-methods-d03b471a7944
 
+x. Versioning 
+
+X.Y.Z
+- x : Major / breaking changes
+- y : minor / new features
+- z : patches / bug fixing
 
 6. Les différents type de test
    - unit test

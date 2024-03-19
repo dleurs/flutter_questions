@@ -53,14 +53,18 @@ X.Y.Z
 | Complexité mémoire  pour ajouter un éléments | On n'a besoin  uniquement de réserver l'espace mémoire d'un élément et de jouer avec les pointeurs | On a besoin de créer une nouvelle  liste, et donc de réserver (liste taille + 1) * taille élément  et de copier manuellement  tous les éléments | On n'a besoin  uniquement de réserver l'espace mémoire d'un élément et de jouer avec les pointeurs |
 | Autorise les duplicats                       | Oui (sinon Set)                                                                                    | Oui                                                                                                                                             | clé différentes                                                                                    |
 
-7. Difference between Map and Array in terms of searching an element ?
+7.
+- LinkedList Dart : https://api.flutter.dev/flutter/dart-collection/LinkedList-class.html
+- List (Fixed or Growable) https://api.flutter.dev/flutter/dart-core/List-class.html
+
+9. Difference between Map and Array in terms of searching an element ?
    - o(log(n)) and o(n)
    - Et set ?
    -   Pas de doublon dans set
 
 
-8. Difference between var and dynamic
-9. debounce ?
+10. Difference between var and dynamic
+11. debounce ?
     - https://bloc-event-transformers.web.app/bloc_event_transformers/debounce.html
     - https://stackoverflow.com/questions/67826924/what-is-debouncetime-buffer-throttle-methods-in-bloc
    

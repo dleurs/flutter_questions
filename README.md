@@ -45,9 +45,9 @@ X.Y.Z
    7. Gestion de l'état
      
 6.Difference between Array and List ?
-|                                              | LinkedList                                                                                         | List (fixed-length or growable)                                                                                                                                    | Map                                                                                                |
+|                                              | LinkedList                                                                                         | List (fixed or growable)                                                                                                                                    | Map                                                                                                |
 |----------------------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Taille fixe                                  | Non                                                                                                | Oui                                                                                                                                             | Non                                                                                                |
+| Taille fixe                                  | Non                                                                                                | Oui ou non                                                                                                                                             | Non                                                                                                |
 | Comment stocké  en mémoire vive ?            | fragmenté                                                                                          | uni                                                                                                                                             | fragmenté                                                                                          |
 | Rapidité en lecture  ex : list[23]           | o(n)                                                                                               | o(1) instantanné                                                                                                                                | o(log(n)) => Arbre rouge et noir                                                                   |
 | Complexité mémoire  pour ajouter un éléments | On n'a besoin  uniquement de réserver l'espace mémoire d'un élément et de jouer avec les pointeurs | On a besoin de créer une nouvelle  liste, et donc de réserver (liste taille + 1) * taille élément  et de copier manuellement  tous les éléments | On n'a besoin  uniquement de réserver l'espace mémoire d'un élément et de jouer avec les pointeurs |
@@ -56,6 +56,8 @@ X.Y.Z
 7.
 - LinkedList Dart : https://api.flutter.dev/flutter/dart-collection/LinkedList-class.html
 - List (Fixed or Growable) https://api.flutter.dev/flutter/dart-core/List-class.html
+   - final growableList =
+    List<int>.generate(3, (int i) => i * i, growable: true); // https://api.flutter.dev/flutter/dart-core/List/List.generate.html
 
 9. Difference between Map and Array in terms of searching an element ?
    - o(log(n)) and o(n)

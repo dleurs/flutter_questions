@@ -101,7 +101,8 @@ X.Y.Z
 6. What is dependency injection and how is it good for repository ?
 
 
-
+## Other
+- English level
 
 ## Mobile in general
 

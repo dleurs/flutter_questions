@@ -77,9 +77,13 @@ X.Y.Z
    
 7. What are Mixin ?
 8. Sealed class ?
+9. Stockage en flutter ?
+    - SharedPreferences
+    - FlutterSecureStorage
+    - SQFlite ou Hive
 
 
-9. Clean archi
+11. Clean archi
       Presentation / Domain / Data
    - Présentation : cubit / state / pages
    - Domain : entities / abst repo / usecase

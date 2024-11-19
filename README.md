@@ -55,6 +55,7 @@ X.Y.Z
 | Complexité mémoire  pour ajouter un éléments             | On n'a besoin  uniquement de réserver l'espace mémoire d'un élément et de jouer avec les pointeurs | Copier entièrement la liste  dans une nouvelle liste + 1 | On utilise le buffer, si buffer plein alors on copie tout | Copier entièrement la liste  dans une nouvelle liste + 1 |
 
 
+=> https://www.kodeco.com/books/data-structures-algorithms-in-dart/v1.0/chapters/3-basic-data-structures-in-dart
 7.
 - LinkedList Dart : https://api.flutter.dev/flutter/dart-collection/LinkedList-class.html
 - List (Fixed or Growable) https://api.flutter.dev/flutter/dart-core/List-class.html

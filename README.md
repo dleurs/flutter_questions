@@ -56,6 +56,56 @@ X.Y.Z
 
 
 => https://www.kodeco.com/books/data-structures-algorithms-in-dart/v1.0/chapters/3-basic-data-structures-in-dart
+
+J'ai avec ma base de donnée SQL, une liste de rendez-vous (id, description), et des actions lié à ces rendez vous (id, idRdv, description). Quel structure de donnée ?
+
+Benefits of Using Map:
+
+1. Constant Time Lookup O(1)
+2. Direct access by ID
+3. No need to iterate through entire collection
+4. Extremely fast retrieval
+
+
+Unique Key Guarantee
+
+Prevents duplicate IDs
+Automatic key uniqueness
+
+
+Memory Efficiency
+
+Less overhead for large collections
+Faster insertion and deletion
+
+
+Easy Manipulation
+
+Simple to add/remove by ID
+
+
+When to Use List:
+
+Order matters
+Need to maintain insertion order
+Frequent iteration required
+Need to keep duplicate entries
+
+When to Use Map:
+
+Fast lookups by ID
+Unique identifiers
+Quick access/modification
+Large datasets
+
+Recommendations:
+
+Use Map when primary access is by ID
+Use List when order or duplicates matter
+Consider converting lists to maps for performance-critical code
+
+
+
 7.
 - LinkedList Dart : https://api.flutter.dev/flutter/dart-collection/LinkedList-class.html
 - List (Fixed or Growable) https://api.flutter.dev/flutter/dart-core/List-class.html
